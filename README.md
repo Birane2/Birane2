@@ -13,7 +13,6 @@
 - 💻 Passionate about Web Development, Information Systems and Digital Technologies
 - 🚀 Interested in Django REST Framework, Laravel, React and Flutter
 - 🏥 Developed a Hospital Management Application with Django
-- 📦 Developed a Laravel application for equipment management during an internship
 - 🧾 Worked on a Laravel invoicing management application
 - 🌍 Based in Nouakchott, Mauritania
 - 📚 Currently improving my skills in backend, frontend and mobile development
@@ -91,13 +90,12 @@
 - 🏥 Hospital Management Application — Django
 - 🧾 Invoicing Management Application — Laravel & MySQL
 - 📚 Library Management System — Laravel
-- 📦 Equipment Management Application — Laravel internship project
 - 💊 PharmaLocate — Pharmacy geolocation platform with Django REST Framework, React and Flutter
 
 <h2 align="left">🌐 Languages</h2>
 
 - French: B2
-- English: A2
+- English: B1
 - Arabic: Bilingual
 
 <h2 align="left">🤝 Let's Connect</h2>
